@@ -1,0 +1,9 @@
+node_modules
+dist
+.output
+.taste-skill
+*.log
+.DS_Store
+.env
+.env.local
+src/
