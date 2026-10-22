@@ -1,5 +1,7 @@
 # 沈砚 Yan Lin — 个人档案 / The personal file
 
+![首屏预览 The first screen](preview.jpg)
+
 A personal site built as **an object**: a stack of tabbed folders, a shelf of spines, a deck of
 notes, a letter on a sheet, a visiting card, the back of the card.
 Stack + Router + Start, SSR, no client-side data fetching needed for the content itself.
