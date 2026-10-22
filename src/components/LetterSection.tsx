@@ -16,7 +16,7 @@ export function LetterSection({
         <article className="sheet">
           <div className="sheet__head">
             <span className="sheet__seal" aria-hidden="true">
-              砚
+              高
             </span>
             <h2 className="sheet__title">
               自述 <span className="en">Letter</span>

@@ -11,11 +11,11 @@ export const Route = createRootRouteWithContext<{}>()({
     meta: [
       { charSet: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { title: '沈砚 Yan Lin：设计工程师 Design engineer' },
+      { title: '高明岗 Gao Minggang：软件工程师 Software engineer' },
       {
         name: 'description',
         content:
-          '沈砚的个人档案：作品、文章、自述与联系方式。The personal file of Yan Lin: work, writing, a letter, and how to reach him.',
+          '高明岗的个人档案：作品、文章、自述与联系方式。The personal file of Gao Minggang: work, writing, a letter, and how to reach him.',
       },
     ],
     links: [

@@ -22,7 +22,7 @@ export function Footer({
           </div>
           <div className="back__right">
             <span className="seal" aria-hidden="true">
-              砚
+              高
             </span>
             <ul className="addr">
               {links.map((link) => (

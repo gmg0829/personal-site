@@ -14,7 +14,7 @@ export function Hero({ person }: { person: SiteContent['person'] }) {
     <section className="hero" id="top">
       <div className="hero__top">
         <span className="seal seal--mark" aria-hidden="true">
-          砚
+          高
         </span>
         <nav className="hero__nav" aria-label="主导航 Primary">
           <a href="#work">
@@ -40,10 +40,10 @@ export function Hero({ person }: { person: SiteContent['person'] }) {
 
         <p className="hero__details">
           <span>
-            {person.role}　Design engineer for interfaces and type
+            {person.role}　Software engineer for back-end and systems
           </span>
           <span>
-            界面、排版与小工具　Tools for reading, writing and working
+            后端、基础设施与工具　Services, infrastructure and the tools around them
           </span>
           <span>
             上海 GMT+8　2026 秋冬开放接活

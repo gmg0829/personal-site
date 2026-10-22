@@ -1,4 +1,4 @@
-/* 沈砚 Yan Lin — the page is the object
+/* 高明岗 Gao Minggang — the page is the object
    A personal file: tabbed folders, a shelf of spines, a deck of notes,
    a letter on a sheet, a visiting card, the back of the card. */
 
@@ -219,10 +219,10 @@ a { color: inherit; text-decoration: none; }
   background: var(--stone);
   color: var(--ink);
 }
-.shelf__item[data-disc="archives"] .spine__disc { background: var(--paper); color: var(--ink); }
-.shelf__item[data-disc="type"] .spine__disc { background: var(--accent); color: var(--ink); }
-.shelf__item[data-disc="ui"] .spine__disc { background: var(--stone); color: var(--ink); }
-.shelf__item[data-disc="city"] .spine__disc { background: var(--night); color: var(--paper); }
+.shelf__item[data-disc="service"] .spine__disc { background: var(--paper); color: var(--ink); }
+.shelf__item[data-disc="tooling"] .spine__disc { background: var(--accent); color: var(--ink); }
+.shelf__item[data-disc="infra"] .spine__disc { background: var(--stone); color: var(--ink); }
+.shelf__item[data-disc="data"] .spine__disc { background: var(--night); color: var(--paper); }
 .shelf__item:hover .spine__name,
 .shelf__item:focus-within .spine__name { background: var(--accent); color: var(--ink); }
 

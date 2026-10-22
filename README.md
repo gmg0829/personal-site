@@ -1,6 +1,4 @@
-# 沈砚 Yan Lin — 个人档案 / The personal file
-
-![首屏预览 The first screen](preview.jpg)
+# 高明岗 Gao Minggang — 个人档案 / The personal file
 
 A personal site built as **an object**: a stack of tabbed folders, a shelf of spines, a deck of
 notes, a letter on a sheet, a visiting card, the back of the card.
@@ -54,8 +52,8 @@ made usable — a file you can label yourself.
 
 ## What is still sample content
 
-Everything about the person is a placeholder to replace: the name 沈砚 / Yan Lin, the sixteen
-projects, the six essays, the letter, `yanlin@example.com`, the phone number, the address.
+The name, role and the letter are his. Still placeholders to replace: the sixteen projects,
+the six essays, `minggang@example.com`, the phone number, the address.
 No photograph, no quote, no client, no statistic has been invented.
 
 ## A note on the picture floor
